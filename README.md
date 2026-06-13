@@ -97,7 +97,7 @@ All processing happens **inside the user's browser**. No data ever leaves the de
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/sign-language-interpreter.git
+git clone https://github.com/Parasuram2530/sign-language-interpreter.git
 cd sign-language-interpreter
 
 # Install dependencies
